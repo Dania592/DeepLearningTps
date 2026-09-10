@@ -610,6 +610,9 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+## Ignore data folder 
+data/
+
 # JetBrains Rider
 *.sln.iml
 
