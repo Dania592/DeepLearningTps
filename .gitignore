@@ -612,6 +612,7 @@ FodyWeavers.xsd
 
 ## Ignore data folder 
 data/
+appa_real_subset/
 
 # JetBrains Rider
 *.sln.iml
